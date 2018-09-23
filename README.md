@@ -9,7 +9,7 @@ Projekt to, jak łatwo się domyślić, instrument muzyczny z 16 klawiszami, kt�
 - Wzmacniacz do głośników z regulowaną głośnością
 - Przekaźnik USB USART
 - 16 diód RGB ze wspólną anodą
-- Części do zrobienia pudełka oraz oczywiście kable
+- Części drewniane oraz kable
 # 3. IDE
 Do programowania mikrokontrolera użyto Eclipse for C/C++ Developers updated to STM32 Workbench.
 Do programowania aplikacji użyto Netbeansa, razem z frameworkiem Spring oraz bibliotekę RxTx do komunikacji USB.
