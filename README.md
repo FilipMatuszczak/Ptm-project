@@ -1,7 +1,7 @@
 # Instrument muzyczny zrealizowany na STM-32
 Projekt na zajęcia z Podstaw Techniki Mikroprocesorowej.
 # 1. Opis ogólny
-Projekt to, jak łatwo się domyślić, instrument muzyczny z 16 klawiszami, któremu brzmieniem najbliżej do gitary elektrycznej z mocnym przesterem.  Instrument ma bardzo unikalny wygląd, ze względu na jego futurystyczne podświetlane klawisze. Za pomocą prostej aplikacji użytkownik może zmieniać kolor podświetlenia. Dodatkową bardzo ciekawą funkcjonalnością instrumentu jest możliwość nauki różnych piosenek, która polega na tym, że instrument podświetla każdy kolejny klawisz, który należy kliknąć, żeby poprawnie odegrać zadaną piosenkę.
+Projekt to, jak łatwo się domyślić, instrument muzyczny z 16 klawiszami, któremu brzmieniem najbliżej do gitary elektrycznej z mocnym przesterem.  Instrument ma bardzo unikalny wygląd, ze względu na jego futurystyczne, podświetlane klawisze. Za pomocą prostej aplikacji użytkownik może zmieniać kolor podświetlenia. Dodatkową bardzo ciekawą funkcjonalnością instrumentu jest możliwość nauki różnych piosenek, która polega na tym, że instrument podświetla każdy kolejny klawisz, który należy kliknąć, żeby poprawnie odegrać zadaną piosenkę.
 # 2. Użyte peryferia:
 - Klawiatura z 16 przyciskami
 - Płytka elektroniczna do przycisków
