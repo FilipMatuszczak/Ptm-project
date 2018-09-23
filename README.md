@@ -13,7 +13,7 @@ Projekt to, jak łatwo się domyślić, instrument muzyczny z 16 klawiszami, kt�
 # 3. IDE
 Do programowania mikrokontrolera użyto Eclipse for C/C++ Developers updated to STM32 Workbench.
 Do programowania aplikacji użyto Netbeansa, razem z frameworkiem Spring oraz bibliotekę RxTx do komunikacji USB.
-# 4. Problemy z jakimi się zetknęliśmy podczas pracy:
+# 4. Problemy z jakimi zetknęliśmy się podczas pracy:
 - STM32 domyślnie nie umie używać funkcji sin i należy zmienić parę opcji w ustawieniach projektu, żeby tworzenie sinusoidy zadziałało.
 Oto co należy zmienić:
 project -> properties -> c build -> settings -> hardware = no unit | ABI = soft
