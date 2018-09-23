@@ -18,7 +18,7 @@ Do programowania aplikacji użyto Netbeansa, razem z frameworkiem Spring oraz bi
 Oto co należy zmienić:
 project -> properties -> c build -> settings -> hardware = no unit | ABI = soft
 - Przy wykrywaniu kliknięcia, mieliśmy spory problem z drganiem styków oraz np. przy wykryciu, czy użytkownik klinął dokładnie 3 razy w ten sam przycisk, czy po prostu przytrzymał go dostatecznie długo. Rozwiązanie to sprawdzanie przez 50ms czy przycisk został puszczony. Człowiek nie jest w stanie tak szybko kliknąć, a my jesteśmy w stanie stwierdzić, że na pewno puścił przycisk albo kliknął go kolejny raz.
-- Instalacja biblioteki RxTx w netbeans. Rozwiązanie pod tym linkiem - http://rxtx.qbang.org/wiki/index.php/Using_RXTX_In_NetBeans
+- Instalacja biblioteki RxTx w Netbeans. Rozwiązanie pod tym linkiem - http://rxtx.qbang.org/wiki/index.php/Using_RXTX_In_NetBeans
 # 5. Autorzy:
 - Filip Matuszczak
 - Bartosz Mila
